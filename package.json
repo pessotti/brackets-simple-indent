@@ -1,0 +1,12 @@
+{
+  "name": "pessotti.brackets-simple-indent",
+  "title": "Simple Indent",
+  "description": "Simply copy indentation from current line to new line on enter keypress",
+  "version": "1.0.0",
+  "author": "Hugo Pessotti <hpessotti@gmail.com>",
+  "homepage": "https://github.com/pessotti/brackets-simple-indent",
+  "license": "MIT",
+  "engines": {
+    "brackets": ">=0.44.0"
+  }
+}
